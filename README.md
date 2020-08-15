@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**pntech20/pntech20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fullstack developer focusing on MERN stack. 
+I also build mobile applications using React Native.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my health and making customers happy
+- 🌱 I’m currently living in Vietnam
+- 👯 I’m looking to collaborate on a potential production
+- 🤔 I’m looking for long-term contracts
+- 💬 Ask me about anything
+- 📫 How to reach me: `pntech20 at gmail dot com`
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm not gonna tell you 😂
